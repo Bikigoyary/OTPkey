@@ -1,4 +1,10 @@
-[
+[{
+    "id": "048c0df23f4c7784",
+    "username": "Nika",
+    "password": "Nika@123",
+    "expiresAt": "2025-06-22",
+    "allowOffline": true
+  },
   {
     "id": "159b7b3c8588267a",
     "username": "Ajay",
