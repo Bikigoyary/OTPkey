@@ -3,7 +3,7 @@
     "username": "Nika",
     "password": "Nika@123",
     "expiresAt": "2025-06-23",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "159b7b3c8588267a",
