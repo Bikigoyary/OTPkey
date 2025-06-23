@@ -31,7 +31,8 @@
     "username": "Ratul",
     "password": "Ratul@123",
     "expiresAt": "2025-06-30",
-    "allowOffline": true
+    "allowOffline": true,
+    "featuresVersion": "1.0"
   },
 {
     "id": "048c0df23f4c7784",
