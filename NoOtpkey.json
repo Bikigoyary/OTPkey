@@ -23,7 +23,7 @@
     "id": "de3c4be9f056a156",
     "username": "Ajay",
     "password": "Ajay@123",
-    "expiresAt": "2025-06-01",
+    "expiresAt": "2025-06-30",
     "allowOffline": true
   },
 {
@@ -45,7 +45,7 @@
     "username": "Biki",
     "password": "Biki@123",
     "expiresAt": "2025-06-30",
-    "allowOffline": true,
+    "allowOffline": false,
     "featuresVersion": "1.0"
   },
   {
