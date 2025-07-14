@@ -9,8 +9,8 @@
     "id": "f6701c8ab1b08911",
     "username": "Johny",
     "password": "Johny@123",
-    "expiresAt": "2025-07-30",
-    "allowOffline": true
+    "expiresAt": "2025-07-01",
+    "allowOffline": false
  },
 {
     "id": "c2dddc8dcd6b1626",
