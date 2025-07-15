@@ -30,8 +30,8 @@
     "id": "d687e21a8e0c2827",
     "username": "Ratul",
     "password": "Ratul@123",
-    "expiresAt": "2025-07-15",
-    "allowOffline": true
+    "expiresAt": "2025-07-31",
+    "allowOffline": false
   },
 {
     "id": "048c0df23f4c7784",
@@ -53,6 +53,6 @@
     "username": "Phukan",
     "password": "Phukan@123",
     "expiresAt": "2025-07-30",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
