@@ -40,13 +40,22 @@
     "expiresAt": "2025-06-23",
     "allowOffline": true
   },
-  {
+   {
+    "id": "bf891a3662944bde",
+    "username": "Phukan",
+    "password": "Phukan@123",
+    "expiresAt": "2025-06-30", {
     "id": "159b7b3c8588267a",
     "username": "Biki",
     "password": "Biki@123",
     "expiresAt": "2025-07-30",
     "allowOffline": false,
-    "featuresVersion": "1.0"
+    "featuresVersion": "1.0",
+    "roles": ["user"],
+    "email": "biki@example.com",
+    "isActive": true,
+    "lastLogin": null,
+    "permissions": ["read", "write"]
   },
   {
     "id": "bf891a3662944bde",
