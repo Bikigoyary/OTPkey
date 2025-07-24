@@ -2,7 +2,7 @@
     "id": "ac3647d9c29ddbd8",
     "username": "Shymanta",
     "password": "Shymanta@123",
-    "expiresAt": "2025-07-31",
+    "expiresAt": "2025-07-25",
     "allowOffline": false
  },
 {
@@ -10,7 +10,7 @@
     "username": "Johny",
     "password": "Johny@123",
     "expiresAt": "2025-07-31",
-    "allowOffline": false
+    "allowOffline": true
  },
 {
     "id": "c2dddc8dcd6b1626",
@@ -23,7 +23,7 @@
     "id": "de3c4be9f056a156",
     "username": "Ajay",
     "password": "Ajay@123",
-    "expiresAt": "2025-07-31",
+    "expiresAt": "2025-07-27",
     "allowOffline": false
   },
 {
@@ -57,7 +57,7 @@
     "id": "bf891a3662944bde",
     "username": "Phukan",
     "password": "Phukan@123",
-    "expiresAt": "2025-07-30",
+    "expiresAt": "2025-07-25",
     "allowOffline": false
   }
 ]
