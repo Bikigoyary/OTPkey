@@ -10,14 +10,14 @@
     "username": "Johny",
     "password": "Johny@123",
     "expiresAt": "2025-07-31",
-    "allowOffline": true
+    "allowOffline": false
  },
 {
     "id": "c2dddc8dcd6b1626",
     "username": "Korna",
     "password": "Korna@123",
     "expiresAt": "2025-07-30",
-    "allowOffline": true
+    "allowOffline": false
   },
 {
     "id": "de3c4be9f056a156",
@@ -45,7 +45,7 @@
     "username": "Biki",
     "password": "Biki@123",
     "expiresAt": "2025-07-30",
-    "allowOffline": false,
+    "allowOffline": true,
     "featuresVersion": "1.0",
     "roles": ["user"],
     "email": "biki@example.com",
