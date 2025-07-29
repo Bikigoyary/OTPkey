@@ -42,13 +42,14 @@
     "maxLoginAttempts": 5
   },
    {
-    "id": "159b7b3c8588267a",
-    "username": "Biki",
-    "password": "Biki@123",
-    "expiresAt": "2025-07-30",
-    "allowOffline": true,
-    "isActive": true
-  },
+  "id": "159b7b3c8588267a",
+  "username": "Biki",
+  "password": "Biki@123",
+  "expiresAt": "2025-07-30",
+  "allowOffline": true,
+  "isActive": true,
+  "maxOpenSessions": 3
+},
   {
     "id": "bf891a3662944bde",
     "username": "Phukan",
