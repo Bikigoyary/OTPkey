@@ -38,7 +38,7 @@
     "username": "Nika",
     "password": "Nika@123",
     "expiresAt": "2025-09-23",
-    "allowOffline": true"
+    "allowOffline": true
     "maxLoginAttempts": 5
   },
    {
