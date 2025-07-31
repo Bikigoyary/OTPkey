@@ -48,6 +48,26 @@
   "expiresAt": "2025-8-15",
   "allowOffline": false
 },
+ {
+    "id": "159b7b3c8588267a",
+    "username": "Biki",
+    "password": "Biki@123",
+    "allowOffline": false,
+    "loginMax": 5,
+    "resetAttempts": false,
+    "expiresAt": "2025-08-30"
+  },
+  {
+    "id": "user2",
+    "username": "xyz",
+    "password": "123",
+    "allowOffline": false,
+    "loginMax": 3,
+    "resetAttempts": true,
+    "expiresAt": "2025-09-07"
+  }
+]
+
   {
     "id": "bf891a3662944bde",
     "username": "Phukan",
