@@ -46,7 +46,7 @@
   "username": "Biki",
   "password": "Biki@123",
   "expiresAt": "2025-8-15",
-  "allowOffline": true,
+  "allowOffline": false,
   "isActive": true,
   "maxOpenSessions": 3
 },
