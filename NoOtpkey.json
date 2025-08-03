@@ -46,7 +46,8 @@
   "username": "Biki",
   "password": "Biki@123",
   "expiresAt": "2025-8-15",
-  "allowOffline": false
+  "allowOffline": false,
+  "max_success_logins": 3
 },
  {
     "id": "159b7b3c8588267a",
