@@ -9,28 +9,28 @@
     "id": "f6701c8ab1b08911",
     "username": "Johny",
     "password": "Johny@123",
-    "expiresAt": "2025-08-15",
+    "expiresAt": "2025-09-15",
     "allowOffline": false
  },
 {
     "id": "c2dddc8dcd6b1626",
     "username": "Korna",
     "password": "Korna@123",
-    "expiresAt": "2025-08-15",
+    "expiresAt": "2025-08-30",
     "allowOffline": false
   },
 {
     "id": "de3c4be9f056a156",
     "username": "Ajay",
     "password": "Ajay@123",
-    "expiresAt": "2025-08-15",
+    "expiresAt": "2025-08-30",
     "allowOffline": false
   },
 {
     "id": "d687e21a8e0c2827",
     "username": "Ratul",
     "password": "Ratul@123",
-    "expiresAt": "2025-08-15",
+    "expiresAt": "2025-08-30",
     "allowOffline": false
   },
 {
@@ -41,14 +41,6 @@
     "allowOffline": true,
     "maxLoginAttempts": 5
   },
-   {
-  "id": "159b7b3c8588267a",
-  "username": "Biki",
-  "password": "Biki@123",
-  "expiresAt": "2025-8-15",
-  "allowOffline": false,
-  "max_success_logins": 3
-},
  {
     "id": "159b7b3c8588267a",
     "username": "Biki",
@@ -58,17 +50,6 @@
     "resetAttempts": false,
     "expiresAt": "2025-08-30"
   },
-  {
-    "id": "user2",
-    "username": "xyz",
-    "password": "123",
-    "allowOffline": false,
-    "loginMax": 3,
-    "resetAttempts": true,
-    "expiresAt": "2025-09-07"
-  }
-]
-
   {
     "id": "bf891a3662944bde",
     "username": "Phukan",
